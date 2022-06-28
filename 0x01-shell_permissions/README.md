@@ -23,13 +23,13 @@ File 10-mirror_permissions creates a script that sets the mode of the file hello
 
 File 11-directories_permissions creates a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
-File 12-directory_permissions creates a script that creates a directory called dir_holberton with permissions 751 in the working directory.
+File 12-directory_permissions creates a script that creates a directory called my_dir with permissions 751 in the working directory.
 
-File 13-change_group creates a script that changes the group owner to holberton for the file hello.
+File 13-change_group creates a script that changes the group owner to school for the file hello.
 
-File 100-change_owner_and_group creates a script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+File 100-change_owner_and_group creates a script that changes the owner to betty and the group owner to staff for all the files and directories in the working directory.
 
-File 101-symbolic_link_permissions creates a script that changes the owner and the group owner of the file _hello to betty and holberton respectively.
+File 101-symbolic_link_permissions creates a script that changes the owner and the group owner of the file _hello to betty and staff respectively.
 
 File 102-if_only creates a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
